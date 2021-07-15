@@ -1,4 +1,5 @@
 # klikr-paste-clipboard
+[![npm pacakge](https://badge.fury.io/js/klikr-paste-clipboard.svg)](//npmjs.com/package/klikr-paste-clipboard)
 
 It gets text from your Clipboard, send text into `https://klikr.org/paste.php`, returns URL and paste URL into Clipboard back.
 
