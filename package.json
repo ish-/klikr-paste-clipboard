@@ -1,0 +1,22 @@
+{
+  "name": "klikr-paste-clipboard",
+  "version": "0.0.1",
+  "description": "It gets text from your Clipboard, send text into `https://klikr.org/paste.php`, returns URL and paste URL into Clipboard back.",
+  "main": "./lib/index.js",
+  "type": "module",
+  "bin": {
+    "klikr-paste": "./bin/klikr-paste-clipboard.js"
+  },
+  "keywords": [
+    "klikr",
+    "paste",
+    "clicpboard"
+  ],
+  "author": "Vladislav Pavlov <imwaves@gmail.com> (https://dearwhoever.space/)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "clipboardy": "^2.3.0",
+    "form-data": "^4.0.0"
+  }
+}
