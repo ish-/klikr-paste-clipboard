@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "type": "module",
   "bin": {
-    "klikr-paste": "./bin/klikr-paste-clipboard.js"
+    "klikr-paste-clipboard": "./bin/klikr-paste-clipboard.js"
   },
   "keywords": [
     "klikr",
