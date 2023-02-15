@@ -10,8 +10,13 @@
   "keywords": [
     "klikr",
     "paste",
-    "clicpboard"
+    "clipboard"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ish-/klikr-paste-clipboard.git"
+  },
+  "homepage": "https://github.com/ish-/klikr-paste-clipboard#readme",
   "author": "Vladislav Pavlov <imwaves@gmail.com> (https://dearwhoever.space/)",
   "license": "ISC",
   "dependencies": {
