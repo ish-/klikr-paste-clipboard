@@ -1,6 +1,6 @@
 {
   "name": "klikr-paste-clipboard",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "It gets text from your Clipboard, send text into `https://klikr.org/paste.php`, returns URL and paste URL into Clipboard back.",
   "main": "./lib/index.js",
   "type": "module",
